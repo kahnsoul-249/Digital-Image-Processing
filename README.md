@@ -467,4 +467,4 @@ def apply_laplacian(self):
 
 ---
 
-**Chúc bạn thành công với bài tập Digital Image Processing! 🎓**
+
